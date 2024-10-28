@@ -58,7 +58,3 @@ npx playwright test
 ## Additional Resources
 
 For more information, visit the official [Playwright documentation](https://playwright.dev/docs/intro).
-
---- 
-
-This is ready to paste directly into your `README.md` file!
