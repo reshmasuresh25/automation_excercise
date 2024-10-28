@@ -1,7 +1,3 @@
-Here’s the `README.md` content ready for you to copy and paste:
-
----
-
 # Automation Exercise
 
 This project leverages [Playwright](https://playwright.dev/) for automating tests on user signup and login functionalities within a sample e-commerce environment. It follows a modular approach with page object models, making the codebase more maintainable and reusable.
